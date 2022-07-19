@@ -7,8 +7,7 @@
   - [Active Directory Bulk User Creation](https://github.com/sireton/URL)
   - [FIM (File Integrity Monitor)](https://github.com/sireton/URL)
 
-<h2>📺 YouTube Videos</h2>
--<b>PowerShell<b>
+
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="SamIreton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
