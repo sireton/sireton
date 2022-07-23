@@ -14,6 +14,9 @@
 - <b>Network Tools</b>
   - [Port Scanner](https://github.com/sireton/Projects)
 
+- <b>Risk Management</b>
+  - [Confusion Matrix](https://github.com/sireton/Projects)
+
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="SamIreton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
