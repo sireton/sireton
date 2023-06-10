@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/sireton"></a>, <a href="https://www.linkedin.com/in/sam-ireton/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/sireton"><a href="https://www.linkedin.com/in/sam-ireton/">Cybersecurity Analyst</a>
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
