@@ -9,7 +9,13 @@
   - [FIM (File Integrity Monitor)](https://github.com/sireton/URL)
 
 - <b>Black Hat Python</b>
-  - [Projects](https://github.com/sireton/BlackHatPython2nd/tree/Practice)
+  - [Sniffer](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer.py)
+  - [Sniffer, IP Header Decode](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_ip_header_decode.py)
+  - [Sniffer ICMP](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_with_icmp.py)
+  - [SSH Sever](https://github.com/sireton/BlackHatPython2nd/blob/Practice/ssh_server.py)
+  - [TCP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_client.py)
+  - [TCP Server](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_server.py)
+  - [UDP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/udp_client.py)
 
 - <b>Encryption</b>
   - [XOR Encryption](https://github.com/sireton/Encrypt)
