@@ -8,6 +8,9 @@
   - [Active Directory Bulk User Creation](https://github.com/sireton/URL)
   - [FIM (File Integrity Monitor)](https://github.com/sireton/URL)
 
+- <b>Black Hat Python</b>
+  - [Projects](https://github.com/sireton/BlackHatPython2nd/tree/Practice)
+
 - <b>Encryption</b>
   - [XOR Encryption](https://github.com/sireton/Encrypt)
   
