@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-- <b>Black Hat Python</b>
+- <b>Black Hat Python Projects</b>
   - [Sniffer](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer.py)
   - [Sniffer, IP Header Decode](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_ip_header_decode.py)
   - [Sniffer ICMP](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_with_icmp.py)
