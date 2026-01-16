@@ -2,9 +2,6 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/sireton/URL)
-  - [FIM (File Integrity Monitor)](https://github.com/sireton/URL)
 
 - <b>Black Hat Python</b>
   - [Sniffer](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer.py)
