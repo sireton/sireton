@@ -3,8 +3,6 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sireton/URL)
-  - [JWipe (Disk Wiping Utility)](https://github.com/sireton/URL)
   - [Active Directory Bulk User Creation](https://github.com/sireton/URL)
   - [FIM (File Integrity Monitor)](https://github.com/sireton/URL)
 
