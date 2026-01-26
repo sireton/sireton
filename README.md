@@ -2,8 +2,8 @@
 
 <h2>📄 Pentesting Portfolio:</h2>
 
- - <b>Pentesting Reports<b>
-    - [View Reports](https://sireton.github.io)
+ - <b>Portfolio & Reports<b>
+    - [View Portfolio](https://sireton.github.io)
    
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
