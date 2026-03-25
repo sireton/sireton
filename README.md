@@ -17,14 +17,13 @@
   - [TCP Server](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_server.py)
   - [UDP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/udp_client.py)
 
-- <b>Encryption</b>
-  - [XOR Encryption](https://github.com/sireton/Encrypt)
+- <b>Tools & Methodologies</b>
+  - [Tools]([https://github.com/sireton/Encrypt](https://github.com/sireton/tools-methodologies/tree/Practice/Methodologies))
+  - [Methodologies]([https://github.com/sireton/Encrypt](https://github.com/sireton/tools-methodologies/tree/Practice/Tools))
   
 - <b>Network Tools</b>
   - [Port Scanner](https://github.com/sireton/Projects)
 
-- <b>Risk Management</b>
-  - [Confusion Matrix](https://github.com/sireton/Projects)
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="SamIreton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
