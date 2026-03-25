@@ -18,8 +18,8 @@
   - [UDP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/udp_client.py)
 
 - <b>Tools & Methodologies</b>
-  - [Tools]([https://github.com/sireton/Encrypt](https://github.com/sireton/tools-methodologies/tree/Practice/Methodologies))
-  - [Methodologies]([https://github.com/sireton/Encrypt](https://github.com/sireton/tools-methodologies/tree/Practice/Tools))
+  - [Tools](https://github.com/sireton/tools-methodologies/tree/Practice/Methodologies)
+  - [Methodologies](https://github.com/sireton/tools-methodologies/tree/Practice/Tools)
   
 - <b>Network Tools</b>
   - [Port Scanner](https://github.com/sireton/Projects)
