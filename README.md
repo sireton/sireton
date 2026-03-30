@@ -14,15 +14,7 @@
   
 - <b>Network Tools</b>
   - [Port Scanner](https://github.com/sireton/Projects)
-
- - <b>Black Hat Python Projects</b>
-  - [Sniffer](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer.py)
-  - [Sniffer, IP Header Decode](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_ip_header_decode.py)
-  - [Sniffer ICMP](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_with_icmp.py)
-  - [SSH Sever](https://github.com/sireton/BlackHatPython2nd/blob/Practice/ssh_server.py)
-  - [TCP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_client.py)
-  - [TCP Server](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_server.py)
-  - [UDP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/udp_client.py)
+  - [Black Hat Python Projects](https://github.com/sireton/BlackHatPython2nd/)
 
 
 <h2> 🤳 Connect with me:</h2>
