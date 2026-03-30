@@ -8,7 +8,14 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-- <b>Black Hat Python Projects</b>
+- <b>Tools & Methodologies</b>
+  - [Tools](https://github.com/sireton/tools-methodologies/tree/Practice/Tools)
+  - [Methodologies](https://github.com/sireton/tools-methodologies/tree/Practice/Methodologies)
+  
+- <b>Network Tools</b>
+  - [Port Scanner](https://github.com/sireton/Projects)
+
+ - <b>Black Hat Python Projects</b>
   - [Sniffer](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer.py)
   - [Sniffer, IP Header Decode](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_ip_header_decode.py)
   - [Sniffer ICMP](https://github.com/sireton/BlackHatPython2nd/blob/Practice/sniffer_with_icmp.py)
@@ -16,13 +23,6 @@
   - [TCP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_client.py)
   - [TCP Server](https://github.com/sireton/BlackHatPython2nd/blob/Practice/tcp_server.py)
   - [UDP Client](https://github.com/sireton/BlackHatPython2nd/blob/Practice/udp_client.py)
-
-- <b>Tools & Methodologies</b>
-  - [Tools](https://github.com/sireton/tools-methodologies/tree/Practice/Tools)
-  - [Methodologies](https://github.com/sireton/tools-methodologies/tree/Practice/Methodologies)
-  
-- <b>Network Tools</b>
-  - [Port Scanner](https://github.com/sireton/Projects)
 
 
 <h2> 🤳 Connect with me:</h2>
